@@ -1,19 +1,15 @@
-# Employee Directory
+# Employee Directory - Deployed on AWS Beanstalk
 This is an Employee Directory using React. A user can view a list of employee's information such as picture, phone number, email and DOB.
 
 <img src="screencapture.png" width=600px> 
 
 ## Deployment
 
-https://create-react-app.dev/docs/deployment/#github-pages
-
-Check the section of "Git Hub Pages"
 
 
 ## Usage 
 Access the following URL to open the web application.
 
-https://tak-9.github.io/react-employee-directory/
 
 
 ## Technologies used
